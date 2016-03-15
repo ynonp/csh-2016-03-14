@@ -1,0 +1,5 @@
+en3: flags=8963 mtu 1500
+    options=60
+    ether 32:00:18:24:c0:00
+    media: autoselect 
+    status: inactive

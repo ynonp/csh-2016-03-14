@@ -1,0 +1,4 @@
+p2p0: flags=8843 mtu 2304
+    ether 06:38:35:47:96:24
+    media: autoselect
+    status: inactive
